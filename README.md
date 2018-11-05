@@ -52,5 +52,4 @@ $ Python project.py
 ```
 /restaurants/<int:restaurant_id>/menu/JSON
 ```
-### Credits
-Photo by Redd Angelo on Unsplash
+
